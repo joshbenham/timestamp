@@ -1,8 +1,7 @@
 timestamp
 =========
 
-[Josh Benham](http://joshbenham.net)'s Timestamp command line script to deal with timestamps 
-[![Build Status](https://secure.travis-ci.org/joshbenham/timestamp.png?branch=master)](http://travis-ci.org/joshbenham/timestamp)
+[Josh Benham](http://joshbenham.net)'s Timestamp command line script to deal with timestamps
 
 Overview
 --------
